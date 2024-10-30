@@ -1,0 +1,19 @@
+diff --git a/node_modules/react-native-pdf/android/src/main/java/org/wonday/pdf/PdfManager.java b/node_modules/react-native-pdf/android/src/main/java/org/wonday/pdf/PdfManager.java
+index 84338e5..783af9b 100644
+--- a/node_modules/react-native-pdf/android/src/main/java/org/wonday/pdf/PdfManager.java
++++ b/node_modules/react-native-pdf/android/src/main/java/org/wonday/pdf/PdfManager.java
+@@ -95,12 +95,12 @@ public class PdfManager extends SimpleViewManager<PdfView> implements RNPDFPdfVi
+     }
+ 
+     @Override
+-    public void setShowsHorizontalScrollIndicator(PdfView view, boolean value) {
++    public void showsHorizontalScrollIndicator(PdfView view, boolean value) {
+         // NOOP on Android
+     }
+ 
+     @Override
+-    public void setShowsVerticalScrollIndicator(PdfView view, boolean value) {
++    public void showsVerticalScrollIndicator(PdfView view, boolean value) {
+         // NOOP on Android
+     }
+ 

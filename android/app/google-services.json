@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "236766359073",
+    "project_id": "proceipt-9b5bb",
+    "storage_bucket": "proceipt-9b5bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236766359073:android:1093e6a773931f40f4fd60",
+        "android_client_info": {
+          "package_name": "com.proceipt.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236766359073-fb465bk6unqb4raj69c3hjldo9frn79c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOuJya5PNwGpvB_CBcWFk4mQuHANSvhmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236766359073-fb465bk6unqb4raj69c3hjldo9frn79c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "236766359073-dprf95hkq6no2lf47q1kvfr9kafcj3eu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.proceipt.customer",
+                "app_store_id": "6444282096"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

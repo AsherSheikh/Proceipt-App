@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "android": {
+      "googleServicesFile": "./android/app/google-services.json"
+    },
+    "ios": {
+      "googleServicesFile": "./ios/Proceipt/GoogleService-Info.plist"
+    },
+    "plugins": ["@react-native-google-signin/google-signin"],
+    "name": "Proceipt",
+    "slug": "Proceipt"
+  }
+}
